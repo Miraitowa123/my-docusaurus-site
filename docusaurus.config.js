@@ -31,11 +31,6 @@ module.exports = {
           label: 'Tutorial',
         },
         {to: '/blog', label: 'Blog', position: 'left'},
-        {
-          href: 'https://github.com/facebook/docusaurus',
-          label: 'GitHub',
-          position: 'right',
-        },
       ],
     },
     footer: {
@@ -45,7 +40,7 @@ module.exports = {
           title: 'Docs',
           items: [
             {
-              label: 'Tutorial',
+              label: 'Docs',
               to: '/docs/intro',
             },
           ],
@@ -74,14 +69,10 @@ module.exports = {
               label: 'Blog',
               to: '/blog',
             },
-            {
-              label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
-            },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Huang.`,
     },
     prism: {
       theme: lightCodeTheme,
