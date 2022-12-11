@@ -28,9 +28,9 @@ module.exports = {
           type: 'doc',
           docId: 'intro',
           position: 'left',
-          label: 'Tutorial',
+          label: '细碎',
         },
-        {to: '/blog', label: 'Blog', position: 'left'},
+        {to: '/blog', label: '动态', position: 'left'},
       ],
     },
     footer: {
@@ -49,16 +49,16 @@ module.exports = {
           title: 'Community',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              label: 'Zhihu',
+              href: '#',
             },
             {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
+              label: 'Weibo',
+              href: '#',
             },
             {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
+              label: 'Bilibili',
+              href: '#',
             },
           ],
         },

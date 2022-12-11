@@ -4,11 +4,11 @@ import styles from './HomepageFeatures.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Tty to be sincere',
     Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        真诚
+        对于网站主题色的选择斟酌了很久，想着你喜欢的紫是哪种紫，香芋紫、麻薯紫、藕荷紫还是鸢尾紫？后来提取了自己毛衣上的紫色，准确的说是a19bf4紫，标准的a19bf4紫。
       </>
     ),
   },
@@ -17,16 +17,16 @@ const FeatureList = [
     Svg: require('../../static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        关爱
+        对于首页的三段话想一想，先写一些小巧思好了，目前主要用来记录的。
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Powered by Action',
     Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        行动
+        对于首页所有svg的选择，大致都是love为主题，这个teddy bear就和little bear守护一根小蜡烛呼应。
       </>
     ),
   },

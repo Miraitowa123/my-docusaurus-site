@@ -17,7 +17,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
-            这是我的记录⏱️
+            记录从这里开始⏱️
           </Link>
         </div>
       </div>
