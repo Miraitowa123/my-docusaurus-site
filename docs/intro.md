@@ -4,32 +4,22 @@ sidebar_position: 1
 
 # 关于本站
 
-Let's discover **Docusaurus in less than 5 minutes**.
+欢迎访问本站
 
-## Getting Started
+## 写在前面
 
-Get started by **creating a new site**.
+种一棵树最好的时间，**一是十年前，二就是现在**。有什么想法就要执行力拉满，始于足下。当初学习新的技术栈就想搭建一个人网站，后来浮浮沉沉，有个更好的念头，也更加更加坚定，`希望网站上线于2022年末，最好于12月18日`。
+## 网站介绍
+#### 域名选择
+简单做了调研，截止至2021 年第四季度末，全球顶级域名注册量为 3.417 亿个，并且已经有超过7.41亿个域名被登记注册，想找一个称心如意的域名真的挺难，尝试选择`kevin、kevins、kevin411、kevinone、kevintes、kevinneverquit、kevinhappiness`，不是被占用，就是很平常。那天在八股里看到了DNS的名词解释，`Domain Name Service`领域域名服务，决定取`Domain`领域之意，一是有`kevin's area`专属领地的意思，二是致敬经典，毕竟是带点爱情小屋的感觉。
+#### 技术选型
 
-Or **try Docusaurus immediately** with **[new.docusaurus.io](https://new.docusaurus.io)**.
-
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**:
-
-```shell
-npx @docusaurus/init@latest init my-website classic
-```
-
-## Start your site
-
-Run the development server:
-
-```shell
-cd my-website
-
-npx docusaurus start
-```
-
-Your site starts at `http://localhost:3000`.
-
-Open `docs/intro.md` and edit some lines: the site **reloads automatically** and display your changes.
+前端`react+css`
+后端采用`node express`
+部署到`腾讯云服务器`
+#### 网站
+目前结构：首页，细碎，美食...
+1.会逐渐丰富
+2.会做移动端适配
+## 最后
+有想法就会持续更新，内容从吃喝拉撒到学习历程，会记录人间每个令人动容的时刻。
