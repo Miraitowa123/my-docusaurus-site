@@ -1,3 +1,4 @@
+![Docs Version Dropdown](/img/tutorial/sixth.png)
 ---
 sidebar_position: 5
 ---
