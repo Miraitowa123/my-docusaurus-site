@@ -8,7 +8,7 @@ const FeatureList = [
     Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        网站的主题色斟酌了很久，想你喜欢的紫是哪种紫，香芋紫、麻薯紫、藕荷紫还是鸢尾紫？后来吸取了自己毛衣上的紫色，准确的说是a19bf4紫，唯一的a19bf4紫。
+        你喜欢的紫是哪种紫，香芋紫、麻薯紫、藕荷紫还是鸢尾紫？后来吸取了自己毛衣上的紫色，准确的说是a19bf4紫。
       </>
     ),
   },
@@ -26,7 +26,7 @@ const FeatureList = [
     Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        对于首页所有svg的选择，大致都是love为主题，看到这个teddy bear and girl，就想起来little bear守护一根小蜡烛。哦，还能想起来一部不让我看的小手机，它的背景也是bear and girl。
+        对于首页所有svg的选择，大致都是love为主题，看到这个teddy bear and girl，就想起来little bear守护一根小蜡烛。
       </>
     ),
   },
